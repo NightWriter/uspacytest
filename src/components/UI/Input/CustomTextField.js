@@ -51,7 +51,7 @@ const CustomTextField = ({
           padding: '2px 6px 4px',
           borderRadius: '4px',
           color: '#fff',
-          transform: 'translate(10px, -9px) scale(0.75)',
+          transform: 'translate(14px, -9px) scale(0.75)',
           backgroundColor: error ? '#F7696B' : '#7C69F7',
         },
         // Styles for non-focused label when there's an error
@@ -60,11 +60,11 @@ const CustomTextField = ({
           padding: '2px 6px 4px',
           borderRadius: '4px',
           color: '#fff',
-          transform: 'translate(10px, -9px) scale(0.75)',
+          transform: 'translate(14px, -9px) scale(0.75)',
           transition: 'background-color 0.2s ease, color 0.2s ease, transform 0.2s ease',
         },
         '& .css-17xzsbk-MuiFormLabel-root-MuiInputLabel-root': {
-          transform: 'translate(10px, -9px) scale(0.75)',
+          transform: 'translate(14px, -9px) scale(0.75)',
         },
         // Styles for non-focused label when no error
         '& .MuiInputLabel-root:not(.Mui-focused):not(.Mui-error)': {

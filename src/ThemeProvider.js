@@ -19,13 +19,9 @@ const theme = createTheme({
   spacing: 8,
   typography: {
     fontFamily: [
-      '"Hiragino Sans"',
-      '-apple-system',
-      'BlinkMacSystemFont',
-      '"Segoe UI"',
-      'Roboto',
-      'Helvetica',
-      'Arial',
+      '"Montserrat"',
+      '"Manrope"',
+      'system-ui',
       'sans-serif',
     ].join(','),
   },

@@ -21,6 +21,10 @@
   margin-top: 4px;
 }
 
+.error-message.error-message-checkbox {
+  left: 0;
+}
+
 .css-1hbk014-MuiInputBase-root-MuiOutlinedInput-root {
   padding: 31.5px 14px !important;
   font-family: "Manrope", system-ui !important;
@@ -45,4 +49,8 @@
 .css-i4bv87-MuiSvgIcon-root {
   width: 1.5em !important;
   height: 1.5em !important;
+}
+
+.css-1sqnrkk-MuiInputBase-input-MuiOutlinedInput-input {
+  padding-top: 20px !important;
 }

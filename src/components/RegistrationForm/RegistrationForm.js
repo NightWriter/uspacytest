@@ -114,6 +114,7 @@ const RegistrationForm = () => {
               />
             </div>
 
+            <div className="input-group">
             <FormControlLabel
               control={
                 <Field
@@ -137,7 +138,8 @@ const RegistrationForm = () => {
                 </span>
               }
             />
-            <ErrorMessage name="agreement" component="div" className="error-message" />
+            <ErrorMessage name="agreement" component="div" className="error-message error-message-checkbox" />
+            </div>
 
             <CustomButton
               type="submit"
