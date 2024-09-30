@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/uspacytest/static/css/main.abfb65f0.css",
+    "main.js": "/uspacytest/static/js/main.e194962b.js",
+    "static/media/bg.png": "/uspacytest/static/media/bg.1cf5cad6eb85171e5d4d.png",
+    "static/media/uspacy.png": "/uspacytest/static/media/uspacy.4602418735603f0e9eff.png",
+    "static/media/logo.svg": "/uspacytest/static/media/logo.1905a8b638d74b5746994652a965ae15.svg",
+    "index.html": "/uspacytest/index.html",
+    "static/media/arrow-down.svg": "/uspacytest/static/media/arrow-down.19f5e1b10a36e9e252607eb38ecc1c30.svg",
+    "main.abfb65f0.css.map": "/uspacytest/static/css/main.abfb65f0.css.map",
+    "main.e194962b.js.map": "/uspacytest/static/js/main.e194962b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abfb65f0.css",
+    "static/js/main.e194962b.js"
+  ]
+}
