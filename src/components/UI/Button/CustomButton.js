@@ -50,7 +50,7 @@ const CustomButton = ({ variant, disabled, children, onClick }) => {
     <Button
       sx={styles}
       disabled={disabled}
-      onClick={onClick} // Добавлено
+      onClick={onClick}
     >
       {children}
     </Button>
