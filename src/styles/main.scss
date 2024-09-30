@@ -1,0 +1,18 @@
+@import 'reset';
+
+#root {
+  height: 100%;
+}
+
+.wrapper {
+  background-color: #070707;
+  height: auto;
+  font-family: "Montserrat", sans-serif;
+}
+
+.main {
+  background: url(../../src/assets/bg.png) no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+
