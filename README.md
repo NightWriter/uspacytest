@@ -1,10 +1,9 @@
 [This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-git clone https://github.com/Iamvagabund/uspacytest.git
+For start:
+1. git clone https://github.com/Iamvagabund/uspacytest.git
+2. cd uspacy
 
+3. ### `npm install`
 
-cd uspacy
-
-### `npm install`
-
-### `npm start`
+4. ### `npm start`
