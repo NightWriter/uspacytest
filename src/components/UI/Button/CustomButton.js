@@ -10,6 +10,7 @@ const CustomButton = ({ variant, disabled, children, onClick }) => {
     textTransform: 'none',
     position: 'relative',
     zIndex: 2,
+    fontFamily: "'Manrope', system-ui",
     '&:hover': {
       backgroundColor: '#FCB02D',
     },
@@ -50,7 +51,7 @@ const CustomButton = ({ variant, disabled, children, onClick }) => {
     <Button
       sx={styles}
       disabled={disabled}
-      onClick={onClick} // Добавлено
+      onClick={onClick}
     >
       {children}
     </Button>
